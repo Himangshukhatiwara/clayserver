@@ -1,0 +1,2 @@
+# clayserver
+my static website
